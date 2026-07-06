@@ -1,77 +1,78 @@
 <h1 align="center">Hi 👋, I'm Nivetha G</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Nivetha+G;Python+Full+Stack+Developer;Django+%E2%80%A2+MySQL+%E2%80%A2+React+Learner;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Nivetha+G;Python+Full+Stack+Developer;Django+%7C+MySQL+%7C+React+Learner;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 ---
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently building **Full Stack Web Applications**
-- 🌱 Currently learning **React.js**
-- 💻 Skilled in **Python, Django, MySQL, HTML, CSS & JavaScript**
-- 🎯 Goal: Become a Professional Python Full Stack Developer
+- 🔭 Currently building **Python Full Stack Projects**
+- 🌱 Learning **React.js**
+- 💻 Skilled in **Python, Django, MySQL, HTML, CSS, JavaScript**
+- 🎯 Goal: Become a Professional Full Stack Developer
+- 📍 Chennai, India
 - 📫 Reach me: **nivethagirirajan07@gmail.com**
 
 ---
 
 ## 🚀 Tech Stack
 
-### Languages
+<p align="center">
 
-- Python
-- JavaScript
-- HTML5
-- CSS3
-- PHP
+<img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,js,react,git,github,vscode" />
 
-### Backend
-
-- Django
-
-### Database
-
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 📊 GitHub Stats
 
-### 🛍️ StyleNest
-A complete Fashion E-Commerce Website built using Django.
+<p align="center">
 
-### 🍫 Fudge Factory
-Brownie E-Commerce Website developed during internship.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-nivetha&show_icons=true&theme=tokyonight"/>
 
-### 🛡️ Cyber Attack Detection
-Machine Learning project using Random Forest & SVM.
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-nivetha&theme=tokyonight"/>
 
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects and skills.
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 💻 Most Used Languages
 
-- React.js
-- REST APIs
-- Advanced Django
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nivetha&layout=compact&theme=tokyonight"/>
 
-## 🎯 2026 Goals
-
-- Build Production Ready Projects
-- Learn React Completely
-- Contribute to Open Source
-- Get Placed as Python Full Stack Developer
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-nivetha&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=dev-nivetha&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
